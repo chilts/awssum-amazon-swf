@@ -12,9 +12,6 @@
 // built-ins
 var querystring = require('querystring');
 
-// dependencies
-var _ = require('underscore');
-
 // --------------------------------------------------------------------------------------------------------------------
 // bodies
 

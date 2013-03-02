@@ -18,7 +18,6 @@ var crypto = require('crypto');
 
 // dependencies
 var _ = require('underscore');
-var xml2js = require('xml2js');
 var dateFormat = require('dateformat');
 
 // our own
@@ -296,6 +295,3 @@ _.each(operations, function(operation, operationName) {
 exports.Swf = Swf;
 
 // --------------------------------------------------------------------------------------------------------------------
-
-
-// http://docs.amazonwebservices.com/amazonswf/latest/developerguide/HMACAuth-swf.html
