@@ -1,6 +1,6 @@
 {
     "name" : "awssum-amazon-swf",
-    "description" : "NodeJS module to talk to Amazon Simple WorkFlow (SWF).",
+    "description" : "AwsSum plugin for Amazon Simple WorkFlow (SWF).",
     "version" : "1.0.0",
 
     "main" : "awssum-amazon-swf.js",
